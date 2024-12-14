@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhuwan Upadhyaya.
 - 👀I am eager to both learn and actively engage in the fields where I possess knowledge.
 - 🌱 I’m currently learning Java programming language
-- 💞️ I’m looking to collaborate on ----> looking  for an internship
+- 💞️ I’m looking to collaborate on ----> any kinda of java or python projects
 - 📫 How to reach me ...https://www.linkedin.com/in/updhyabhuwan-55ba47283?
 - e3692834@student.dcccd.edu/ bxu9187@mavs.uta.edu
 - lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B53vSkZKQQf26%2B7A%2FqwdmoQ%3D%3D
